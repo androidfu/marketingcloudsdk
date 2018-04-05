@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <metadata>
 	
-  <attr path="/api/package[@name='com.salesforce.marketingcloud']/class[@name='a']" name="obfuscated">false</attr>
-  <attr path="/api/package[@name='com.salesforce.marketingcloud']/class[@name='c']" name="managedName">cc</attr>
+  <attr path="/api/package[@name='com.salesforce.marketingcloud']/class[@name='a']" name="obfuscated">false</attr> <!-- AutoValue_InitializationStatus -->
+  <attr path="/api/package[@name='com.salesforce.marketingcloud']/class[@name='c']" name="managedName">cc</attr> <!-- BuildConfig -->
+  <attr path="/api/package[@name='com.salesforce.marketingcloud']/class[@name='c']" name="obfuscated">false</attr>
   <attr path="/api/package[@name='com.salesforce.marketingcloud']/class[@name='d']" name="managedName">ControlChannel</attr>
   <attr path="/api/package[@name='com.salesforce.marketingcloud']/class[@name='d']" name="obfuscated">false</attr>
   <attr path="/api/package[@name='com.salesforce.marketingcloud.d']/class[@name='b']" name="managedName">ControlChannelListener</attr>
-  <attr path="/api/package[@name='com.salesforce.marketingcloud']/class[@name='c']" name="obfuscated">false</attr>
   <attr path="/api/package[@name='com.salesforce.marketingcloud.d']/class[@name='b']" name="obfuscated">false</attr>
-  <attr path="/api/package[@name='com.salesforce.marketingcloud']/class[@name='g']" name="obfuscated">false</attr>
-  <attr path="/api/package[@name='com.salesforce.marketingcloud']/class[@name='h']" name="obfuscated">false</attr>
+  <attr path="/api/package[@name='com.salesforce.marketingcloud']/class[@name='g']" name="obfuscated">false</attr> <!-- MCInternalComponent -->
+  <attr path="/api/package[@name='com.salesforce.marketingcloud']/class[@name='h']" name="obfuscated">false</attr> <!-- MCLogger -->
   
  
 
